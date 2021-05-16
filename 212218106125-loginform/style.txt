@@ -1,0 +1,12 @@
+QFrame[objectName="back"]{
+background-color:gold;
+}
+QPushButton[text="Confirm"] {
+color:gold;
+background-color:black;
+}
+
+QPushButton[text="Cancel"] {
+color:gold;
+background-color:brown;
+}
